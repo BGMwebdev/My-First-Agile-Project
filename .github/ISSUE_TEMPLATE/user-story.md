@@ -1,10 +1,10 @@
 ---
 name: User Story
-about: This is my default user story template
-title: 'USER STORY: <TITLE>'
+about: This is my second option user story template
+title: ''
 labels: ''
 assignees: ''
 
 ---
 
-Ass a **role**, I can **capability**, so that **received benefit**
+In order to **receive benefit**, as a **role**, I can **goal / desire**
